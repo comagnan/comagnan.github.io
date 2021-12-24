@@ -6,7 +6,7 @@ categories: fiction writing
 excerpt_separator: <!--more-->
 ---
 
-Third of four planned short stories over the month of December. This one, called The Thread, kind of is about the holiday spirit. How fitting!
+Third of four short stories written over the course of December 2021. This one, called The Thread, kind of is about the holiday spirit. How fitting!
 
 <!--more-->
 
