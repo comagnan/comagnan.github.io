@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Card"
+title:  "The Thread"
 date:   2021-12-24 12:34:02 -0400
 categories: fiction writing
 excerpt_separator: <!--more-->
