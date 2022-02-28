@@ -6,7 +6,9 @@ categories: fiction writing
 excerpt_separator: <!--more-->
 ---
 
-The short stories begin anew! In this one I wanted to make a story about conflict. Trying to give it a hook, I settled on making it a non-rhyming poem. It's got an alternating 7-7-7-7-7 and 5-7-5 syllable structure that made it much more interesting to write! Hope you enjoy.
+The short stories begin anew! In this one I wanted to make a story about conflict. Trying to give it a hook, I settled on making it a non-rhyming poem. It's got an alternating 7-7-7-7-7 and 5-7-5 syllable structure that made it much more interesting, and challenging, to write.<br>
+<br>
+Hope you enjoy!
 
 <!--more-->
 
