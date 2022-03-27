@@ -6,7 +6,6 @@ categories: fiction writing
 excerpt_separator: <!--more-->
 ---
 
-<br>
 The letter came in an unassuming envelope. Plain white, garnished with plain black lettering. No flourishes were necessary; a letter from the Ministry of Certification needs no introduction.<br>
 
 <!--more-->
