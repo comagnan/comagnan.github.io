@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 ---
 
 “Attention all Hilbert Hotel guests and employees. We request your presence at Conference Room #2. Please head there at your earliest convenience.”<br>
-<br>
 
 <!--more-->
 
@@ -27,7 +26,9 @@ The sight is unsettling. I would usually see an impossibly thin line in the hori
 <br>
 There is a long way ahead, and the road will be bereft of landmarks of interest. Truthfully, it only takes me a few dozen meters from the starting line to start wishing for headphones. I quickly find myself lost in thought.<br>
 <br>
-As a kid, the hotel’s scale used to terrify me. Peeking at the horizon was all it took to send my mind racing. If there were infinitely many people in this building, for example, were there other people here identical to me? Was there an infinite number of them? And what if I woke up in the middle of the corridor? Could I ever find my way back? These questions gave me a sinking feeling in my stomach, but I couldn’t stop them from pouring in one after the next. It was at that point that I’d go hunting for some distraction. Perhaps a game or book to keep the thoughts away.<br>
+As a kid, the hotel’s scale used to terrify me. Peeking at the horizon was all it took to send my mind racing. If there were infinitely many people in this building, for example, were there other people here identical to me? Was there an infinite number of them? And what if I woke up in the middle of the corridor? Could I ever find my way back?<br>
+<br>
+These questions gave me a sinking feeling in my stomach, but I couldn’t stop them from pouring in one after the next. It was at that point that I’d go hunting for some distraction. Perhaps a game or book to keep the thoughts away.<br>
 <br>
 The hotel had not shrunk, but these moments disappeared with time. You could say my world’s shrunk instead, reduced to the handful of places I visit. The daily routine tends to make you forget these kinds of questions.<br>
 <br>

@@ -16,3 +16,5 @@ The stories I have written over time, collected in one place.
 **VOLUME 2**
 - [Fleur-De-Lys](/fiction/writing/2022/02/27/fleur-de-lys.html)
 - [The Wish Forms](/fiction/writing/2022/03/16/wish-form.html)
+- [The Suburbs We Make Ourselves](/fiction/writing/2022/03/26/our-own-suburbs.html)
+- [What Remains](/fiction/writing/2022/03/26/what-remains.html)

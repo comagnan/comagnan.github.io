@@ -6,20 +6,14 @@ categories: fiction writing
 excerpt_separator: <!--more-->
 ---
 
-The short stories begin anew! In this one I wanted to make a story about conflict. Trying to give it a hook, I settled on making it a non-rhyming poem. It's got an alternating 7-7-7-7-7 and 5-7-5 syllable structure that made it much more interesting, and challenging, to write.<br>
-<br>
-Hope you enjoy!
-
-<!--more-->
-
-- - -
-<br>
 On a hot midsummer day<br>
 A traveler discovers<br>
 A most unique sight indeed<br>
 Some dozen men, and their huts<br>
 Surround a field of flowers<br>
-<br>
+
+<!--more-->
+
 Among fleur-de-lys<br>
 An outsider comes across<br>
 Secretive beauty<br>

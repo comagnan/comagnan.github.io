@@ -11,7 +11,6 @@ Dear friend,<br>
 This letter must come as a surprise to you. We both know I have never been great at writing them. I have never been great at keeping touch in general.<br>
 <br>
 I’m sorry. Heavens, I’m so sorry.<br>
-<br>
 <!--more-->
 
 I wish I could say that I’d turned over a new leaf, that this is simply a friendly letter to catch up on an old friend. Alas. Something happened to me, a matter of utmost importance.<br>
