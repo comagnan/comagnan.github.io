@@ -4,7 +4,7 @@ title: Stories
 permalink: /fiction/writing/
 ---
 
-The stories I have written over time, collected in one place.
+Stories I have written over time, collected in one place.
 
 **VOLUME 1**
 
