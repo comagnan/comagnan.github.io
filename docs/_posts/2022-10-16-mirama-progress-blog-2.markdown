@@ -10,7 +10,7 @@ Welcome to a very special edition of the Mirama Dev Blogs! Yes, a special one in
 <br>
 Ahem...<br>
 <br>
-These are going to be a fairly informal affair. I'm aiming for a new blog every two-to-three months. That should be a good way to follow the game's progress, frequent enough that it won't turn into a wall of text, but with enough time to have something fun to talk about every time! That's the hope, at least.
+These are going to be fairly informal affairs. I'm aiming for a new blog every two-to-three months. That should be a good way to follow the game's progress, frequent enough that it won't turn into a wall of text, but with enough time to have something fun to talk about every time! That's the hope, at least.
 <!--more-->
 <br>
 Here's the Agenda for today!<br>
@@ -25,7 +25,7 @@ Here's the Agenda for today!<br>
 
 Let's start with the elevator pitch. Mirama is a bullet-dodging adventure game, inspired by games like Touhou, The Binding of Isaac, and NieR.
 
-A bit of backstory before I get into the nitty gritty. Mirama's story begins in the summer of 2020, the first year of the pandemic. I organized a game jam with friends to find something worthwhile to do with them in that lockdown-heavy period. The theme we ended up going with was "loss".
+A bit of backstory before I get into the nitty-gritty. *Mirama*'s story begins in the summer of 2020, the first year of the pandemic. I organized a game jam with friends to find something worthwhile to do with them during that lockdown-heavy period. The theme we ended up going with was "loss".
 
 As I was brainstorming ideas, a concept locked into place for me.
 
@@ -35,8 +35,8 @@ Thematically, I’d make a game about the end of magic in a fantasy world, centu
 
 That's the original Miracles and Magic! But a proper development cycle will allow Mirama to go way beyond what the original game was able to deliver. We're talking:
 
-* 5 main chapters instead of 3
-* NPCs to chat with (instead of just reading signs)
+* 5 dungeons to explore, instead of 3!
+* NPCs to chat with, instead of just reading signs
 * Longer stages, longer boss fights, more bullet pattern variety, more gameplay variety
 * EVEN MORE SIGNS TO READ?? What were they thinking????
 * Actual music!
@@ -58,7 +58,7 @@ Momentum has been good since last August! No change here is revolutionary by its
 
 ![Mélodie sleeping in the Storyteller's House](/images/mirama/202210/house.gif)
 
-A lot of different intractable objects were added as well, giving some flavor to the world. I was aiming for a messy look, something that feels... like the lair of a struggling has-been. Hopefully that conveys well!
+A lot of different intractable objects were added as well, giving some flavor to the world. I was aiming for a messy look, something that feels... like the lair of a struggling has-been. Hopefully, that conveys well!
 
 2: Screen shaking and death animations were added
 
@@ -72,7 +72,7 @@ A lot of different intractable objects were added as well, giving some flavor to
 
 ![Alexis perishes at the end of a turret's bullet, then respawns at a checkpoint](/images/mirama/202210/checkpoint.gif)
 
-5: The Costagonian boss, the Effigy of the Precursor, has new sprites and attack names to the Costagonian boss, on top of new bullet patterns
+5: The Costagonian boss, the Effigy of the Precursor, has new sprites, new attack names, and new bullet patterns
 
 ![The Effigy of Anna unleashes an attack called "In Her Name, Even This..." upon Béatrice](/images/mirama/202210/survival.gif)
 
@@ -94,7 +94,7 @@ In Classic Mode, you will go straight from one chapter of Alexis and Beatrice’
 
 Story Mode is meant to be a longer experience, bound to a save file. From a Hub based on the real world, you’ll be able to return to chapters you’ve already played, as well as do some tasks to unlock the next chapter. Every bit of content from Classic Mode will be playable, but the pacing will be slower with the new storyline the Hub comes with. This mode will also reward exploration, inside and outside of the storybook chapters, by unlocking content that would not be available in Classic. The playtime will depend on how hard you’ll try to perfect each stage, but I expect 5+ hours.
 
-I expect both to bring something worthwhile to the table while giving me barely any additional work to do. Story Mode is the game I would have otherwise made, after all. The way I see it, games built like Classic Mode are more fun to run start to finish, while the first time around with games like Story Mode make you more attached to a playthrough.<br>
+I expect both to bring something worthwhile to the table while giving me barely any additional work to do. Story Mode is the game I would have otherwise made, after all. The way I see it, games built like Classic Mode are more fun to run from start to finish. Games built like Story Mode, on the other hand, tend to make you more attached to your playthrough.<br>
 
 Why not just give players the option?<br>
 <hr>
