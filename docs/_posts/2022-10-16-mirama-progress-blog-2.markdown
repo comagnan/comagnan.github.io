@@ -74,7 +74,7 @@ A lot of different intractable objects were added as well, giving some flavor to
 
 5: The Costagonian boss, the Effigy of the Precursor, has new sprites, new attack names, and new bullet patterns
 
-![The Effigy of Anna unleashes an attack called "In Her Name, Even This..." upon Béatrice](/images/mirama/202210/survival.gif)
+![The Effigy of Anna unleashes an attack called "In Her Name, Even This..." upon Béatrice](/images/mirama/202210/effigybullets.gif)
 
 6: I rounded the corners of the main characters’ collision box so that running into a wall like an idiot happens less often!
 
