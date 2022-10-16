@@ -6,7 +6,7 @@ categories: mirama project devblog
 excerpt_separator: <!--more-->
 ---
 
-Welcome to a very special edition of the Mirama Dev Blogs! Yes, a special one indeed, as it's the very first! I don't know if it's better to wish for a long-lasting series or not, considering it would conclude with the game's release... In any case, we better make a good first impression!<br>
+Welcome to a very special edition of the *Mirama* Dev Blogs! Yes, a special one indeed, as it's the very first! I don't know if it's better to wish for a long-lasting series or not, considering it would conclude with the game's release... In any case, we better make a good first impression!<br>
 <br>
 Ahem...<br>
 <br>
@@ -15,7 +15,7 @@ These are going to be fairly informal affairs. I'm aiming for a new blog every t
 <br>
 Here's the Agenda for today!<br>
 
-* What is Mirama?<br>
+* What is *Mirama*?<br>
 * What's been done in the past two months?<br>
 * Story Mode and Classic Mode, two ways to play!<br>
 <hr>
@@ -23,7 +23,7 @@ Here's the Agenda for today!<br>
 
 # What's Mirama?
 
-Let's start with the elevator pitch. Mirama is a bullet-dodging adventure game, inspired by games like Touhou, The Binding of Isaac, and NieR.
+Let's start with the elevator pitch. *Mirama* is a bullet-dodging adventure game, inspired by games like *Touhou*, *The Binding of Isaac*, and *NieR*.
 
 A bit of backstory before I get into the nitty-gritty. *Mirama*'s story begins in the summer of 2020, the first year of the pandemic. I organized a game jam with friends to find something worthwhile to do with them during that lockdown-heavy period. The theme we ended up going with was "loss".
 
@@ -33,7 +33,7 @@ Thematically, I’d make a game about the end of magic in a fantasy world, centu
 
 ![Gameplay of the original Miracles and Magic](/images/mirama/202210/theog.gif)
 
-That's the original Miracles and Magic! But a proper development cycle will allow Mirama to go way beyond what the original game was able to deliver. We're talking:
+That's the original [*Miracles and Magic*](https://www.lexaloffle.com/bbs/?tid=39296)! But a proper development cycle will allow *Mirama* to go way beyond what the original game was able to deliver. We're talking:
 
 * 5 dungeons to explore, instead of 3!
 * NPCs to chat with, instead of just reading signs
@@ -46,7 +46,7 @@ That's the original Miracles and Magic! But a proper development cycle will allo
 
 (To avoid spoiling the next section, all the footage you're seeing is from two months ago)
 
-You might notice that Mirama, visually, is already leagues above what I was able to accomplish with Miracles and Magic. These wonderful people are to thank for that!<br>
+You might notice that *Mirama*, visually, is already leagues above what I was able to accomplish with *Miracles and Magic*. These wonderful people are to thank for that!<br>
 * [Lunate](https://twitter.com/lunoito) and [DAKU](https://twitter.com/fiopico) for their work on the in-game sprite work.
 * [Shoorin](https://twitter.com/shoorinou) for their work on the character portraits.
 
@@ -90,7 +90,7 @@ So what's this about two different game modes? Am I already getting into scope c
 
 Fear not! These two should provide some nice customization for players while being very simple to implement.
 
-In Classic Mode, you will go straight from one chapter of Alexis and Beatrice’s story to the next, with no interruption and no ability to replay previous chapters. It’s like a run of the original Miracles and Magic, or of games like Touhou or Super Mario Bros. 5 chapters, each culminating in a boss. When it’s all done, you get a report of your final time and death count. That’s it. Perfect for speedrunners, or people looking for an old-school experience. This will probably end up being a replayable 2-3 hours experience.
+In Classic Mode, you will go straight from one chapter of Alexis and Beatrice’s story to the next, with no interruption and no ability to replay previous chapters. It’s like a run of the original *Miracles and Magic*, or of games like Touhou or Super Mario Bros. 5 chapters, each culminating in a boss. When it’s all done, you get a report of your final time and death count. That’s it. Perfect for speedrunners, or people looking for an old-school experience. This will probably end up being a replayable 2-3 hours experience.
 
 Story Mode is meant to be a longer experience, bound to a save file. From a Hub based on the real world, you’ll be able to return to chapters you’ve already played, as well as do some tasks to unlock the next chapter. Every bit of content from Classic Mode will be playable, but the pacing will be slower with the new storyline the Hub comes with. This mode will also reward exploration, inside and outside of the storybook chapters, by unlocking content that would not be available in Classic. The playtime will depend on how hard you’ll try to perfect each stage, but I expect 5+ hours.
 
