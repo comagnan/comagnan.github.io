@@ -47,7 +47,7 @@ That's the original [*Miracles and Magic*](https://www.lexaloffle.com/bbs/?tid=3
 (To avoid spoiling the next section, all the footage you're seeing is from two months ago)
 
 You might notice that *Mirama*, visually, is already leagues above what I was able to accomplish with *Miracles and Magic*. These wonderful people are to thank for that!<br>
-* [Lunate](https://twitter.com/lunoito) and [DAKU](https://twitter.com/fiopico) for their work on the in-game sprite work.
+* [Lunate](https://twitter.com/lunoito) and [DAKU](https://twitter.com/fiopico) for their work on the in-game pixel art.
 * [Shoorin](https://twitter.com/shoorinou) for their work on the character portraits.
 
 # Recent progress on the project
