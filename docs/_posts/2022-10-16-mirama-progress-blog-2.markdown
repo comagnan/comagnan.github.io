@@ -58,7 +58,7 @@ Momentum has been good since last August! No change here is revolutionary by its
 
 ![Mélodie sleeping in the Storyteller's House](/images/mirama/202210/house.gif)
 
-A lot of different intractable objects were added as well, giving some flavor to the world. I was aiming for a messy look, something that feels... like the lair of a struggling has-been. Hopefully, that conveys well!
+A lot of different interactive objects were added as well, giving some flavor to the world. I was aiming for a messy look, something that feels... like the lair of a struggling has-been. Hopefully, that conveys well!
 
 2: Screen shaking and death animations were added
 
