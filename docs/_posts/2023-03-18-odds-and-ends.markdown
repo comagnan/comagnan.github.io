@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "odds and ends"
-date:   2022-03-26 12:34:02 -0400
+date:   2023-03-18 08:00:00 -0400
 categories: fiction writing
 excerpt_separator: <!--more-->
 ---
