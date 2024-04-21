@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Profiles
+title: Character Profiles
 permalink: /mirama/profiles
 ---
+
+<title>Mirama - Character Profiles</title>
+<meta name="title" content="Mirama - Character Profiles" />
+<meta name="description" content="" />
+<meta property="og:image" content="https://comagnan.github.io/images/mirama/mirama_ensemble.png" />
 
 # Mélodie ■■■
 
