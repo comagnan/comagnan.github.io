@@ -7,9 +7,9 @@ permalink: /mirama/profiles
 <head>
 <title>Mirama - Character Profiles</title>
 <meta name="title" content="Mirama - Character Profiles" />
-<meta name="description" content="" />
+<meta name="description" content="Discover the cast of Mirama, a bullet-dodging adventure!" />
 <meta property="og:title" content="Mirama - Character Profiles" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Discover the cast of Mirama, a bullet-dodging adventure!" />
 <meta property="og:image" content="https://comagnan.github.io/images/mirama/mirama_ensemble.png" />
 </head>
 
