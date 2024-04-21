@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Projects, you want them? They're all yours my friend.
+Interested in what I worked on? Am I glad to hear it, my friend.
 
 [![Fore](/images/fore.png)](https://theblondebass.itch.io/fore)
 
@@ -17,10 +17,6 @@ Projects, you want them? They're all yours my friend.
 [![Hot Jam](/images/jam.png)](https://itch.io/jam/flamin-hot-jam)
 
 **[The Flaming Hot Jam](https://itch.io/jam/flamin-hot-jam)**, a friendly game jam ran over the summer of 2020.
-
-[![NuRe](/images/nure.png)](https://github.com/comagnan/nure)
-
-**[NuRe](https://github.com/comagnan/nure)**, a dependency updater for .net projects.
 
 [![Bass Awards](/images/bassawards.png)](https://theblondebass.itch.io/the-bass-awards)
 

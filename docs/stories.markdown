@@ -18,3 +18,6 @@ Stories I have written over time, collected in one place.
 - [The Wish Forms](/fiction/writing/2022/03/16/wish-form.html)
 - [The Suburbs We Make Ourselves](/fiction/writing/2022/03/26/our-own-suburbs.html)
 - [What Remains](/fiction/writing/2022/03/26/what-remains.html)
+
+**EXTRAS**
+- [odds and ends](/fiction/writing/2023/03/18/odds-and-ends.html)
