@@ -81,5 +81,5 @@ Béatrice used to travel the world with a healer, the two of them taking on odd 
 <br>
 The only Gifted member of her family, she downplays its importance. Instead, she valorizes experiences that can be shared with anyone, such as physical training. Her earnest, cheerful personality does wonders to reassure people who might otherwise see it as pity.<br>
 <br>
-Uneasy with solitude, she's always on the lookout for reasons to keep herself busy, or people to strike conversation with. Often, much to Alexis' dismay.<br>
+Uneasy with solitude, she's always on the lookout for reasons to keep herself busy, or people to strike conversation with... Much to Alexis' dismay.<br>
 <br>
