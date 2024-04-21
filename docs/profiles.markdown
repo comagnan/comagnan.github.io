@@ -13,7 +13,7 @@ permalink: /mirama/profiles
 **Likes**: Honesty, humility, discovery. Her special scarf.<br>
 **Dislikes**: Being alone for too long. Being around people for too long.<br>
 <br>
-A young wanderer, never staying in one place for long. A long, winding journey took her to the little town of Saint-Joel-De-Nulpart, where she's staying at for a while.<br>
+A young wanderer, never staying in one place for long. A long, winding journey took her to the little town of Saint-Joel-De-Nulpart, where she currently stays.<br>
 <br>
 To tell the truth, it's hard to get a good handle on her! Mélodie can appear so aloof.. And you notice the glean in her eyes, or she asks a question that betrays that, all along, she was paying attention to every word.<br>
 <br>
@@ -31,7 +31,7 @@ That's you, Mélodie!<br>
 **Gender**: M<br>
 **Age**: 43<br>
 **Likes**: Reminiscing. A good cup of wine (or two). Starting brand-new projects.<br>
-**Dislikes**: Actually finishing projects. The lack of decent public transit around here.<br>
+**Dislikes**: Finishing projects. The lack of decent public transit around here.<br>
 <br>
 The writer of tonight's tale of Miracles and Magic, full of action and drama!<br>
 <br>
@@ -44,10 +44,10 @@ It's often said that one is the worst judge of themselves, so I'll spare you my 
 
 **Gender**: M<br>
 **Age**: 19<br>
-**Likes**: Stories of heroes from far-off lands. Scorpions. Rising up to the challenge.<br>
+**Likes**: Stories of heroes from far-off lands. Scorpions. Rising to the challenge.<br>
 **Dislikes**: Rash decisions. Sour food.<br>
 <br>
-Born into a family of talented mages, but never quite reaching to their level, Alexis was disowned at a young age. This experience led him to believe that one can only truly rely on themself.<br>
+Born into a family of talented mages, but never quite reaching their level, Alexis was disowned at a young age. This experience led him to believe that one can only truly rely on oneself.<br>
 <br>
 Since then, he's been offering mercenary services here and there. Rather than trying to improve his skill with the Gift, he instead focuses on strategy and agility. This approach has already led him to many victories, despite his young age.<br>
 <br>
@@ -61,7 +61,7 @@ His asocial behavior has also gotten him into trouble many times. He thought of 
 **Gender**: F<br>
 **Age**: 23<br>
 **Likes**: The warm summer breeze. Exploration. Connecting with people.<br>
-**Dislikes**: Indecisiveness. Being left behind.<br>
+**Dislikes**: Indecisiveness. Saying goodbye.<br>
 <br>
 Béatrice used to travel the world with a healer, the two of them taking on odd jobs along the way. The ribbon she wears on her arm is a symbol of their friendship. As a curse spread over all of Mirama, however, she embarked alone on the journey to find a solution.<br>
 <br>
