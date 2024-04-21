@@ -6,7 +6,9 @@ permalink: /mirama/profiles
 
 # Mélodie ■■■
 
-![Portrait of Mélodie](/images/portraits/melodie512.png)
+<p align="center">
+  <img src="https://comagnan.github.io/images/portraits/melodie512.png" alt = "Portrait of Mélodie"/>
+</p>
 
 **Gender**: F<br>
 **Age**: 20<br>
@@ -23,10 +25,14 @@ That's you, Mélodie!<br>
 <br>
 ... Well, reading someone their profile is a little awkward. Did I get anything wrong?<br>
 <br>
+<hr>
+<br>
 
 # Richard "The Storyteller" ■■■■■■■■■■
 
-![Portrait of Richard](/images/portraits/storyteller512.png)
+<p align="center">
+  <img src="https://comagnan.github.io/images/portraits/storyteller512.png" alt = "Portrait of the Storyteller"/>
+</p>
 
 **Gender**: M<br>
 **Age**: 43<br>
@@ -37,10 +43,14 @@ The writer of tonight's tale of Miracles and Magic, full of action and drama!<br
 <br>
 It's often said that one is the worst judge of themselves, so I'll spare you my backstory here. Maybe one day, you'll get to fill these pages yourself!<br>
 <br>
+<hr>
+<br>
 
 # Alexis Zephyrin
 
-![Portrait of Alexis](/images/portraits/alexis512.png)
+<p align="center">
+  <img src="https://comagnan.github.io/images/portraits/alexis512.png" alt = "Portrait of Alexis"/>
+</p>
 
 **Gender**: M<br>
 **Age**: 19<br>
@@ -53,10 +63,14 @@ Since then, he's been offering mercenary services here and there. Rather than tr
 <br>
 His asocial behavior has also gotten him into trouble many times. He thought of a solution for this, too: he now wears a grin at all times, softening the blow of his curt remarks.<br>
 <br>
+<hr>
+<br>
 
 # Béatrice Caro
 
-![Portrait of Béatrice](/images/portraits/beatrice512.png)
+<p align="center">
+  <img src="https://comagnan.github.io/images/portraits/beatrice512.png" alt = "Portrait of Béatrice"/>
+</p>
 
 **Gender**: F<br>
 **Age**: 23<br>
