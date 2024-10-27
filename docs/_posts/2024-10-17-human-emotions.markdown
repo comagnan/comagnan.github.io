@@ -3,7 +3,6 @@ layout: post
 title:  "Human emotions"
 date:   2023-03-18 08:00:00 -0400
 categories: writing
-excerpt_separator: <!--more-->
 ---
 
 Maybe that's where they went,<br>
