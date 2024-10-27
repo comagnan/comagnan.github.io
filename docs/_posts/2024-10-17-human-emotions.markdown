@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Human emotions"
-date:   2024-10-17 10:00:00 -0400
+date:   2024-10-27 10:00:00 -0400
 categories: writing
 ---
 
