@@ -29,7 +29,7 @@ So one experiences the success,<br>
 the fulfilment,<br>
 on the paths they didn't take.<br>
 <br>
-And that knowledge,<br>
+That knowledge,<br>
 once obtained,<br>
 never fades.<br>
 <br>
