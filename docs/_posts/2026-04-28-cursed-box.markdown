@@ -3,6 +3,7 @@ layout: post
 title:  "This cursed box"
 date:   2026-04-28 10:00:00 -0400
 categories: fiction writing
+excerpt_separator: <!--more-->
 ---
 
 This cursed box, they say,<br>
@@ -12,6 +13,7 @@ not found.<br>
 Those who use it don't go mad,<br>
 not exactly,<br>
 just something like it.<br>
+<!--more-->
 <br>
 It's a window into parallel worlds;<br>
 all of them, in fact,<br>
