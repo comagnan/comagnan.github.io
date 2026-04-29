@@ -22,3 +22,4 @@ Stories I have written over time, collected in one place.
 **EXTRAS**
 - [odds and ends](/fiction/writing/2023/03/18/odds-and-ends.html)
 - [Human emotions](/writing/2024/10/27/human-emotions.html)
+- [This cursed box](/fiction/writing/2026/04/28/cursed-box.html)
